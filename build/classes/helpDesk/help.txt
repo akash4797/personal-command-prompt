@@ -1,0 +1,16 @@
+Help:
+
+codes after login-----
+
+myInfo - shows Personal information
+appInfo - shows app version and creation credit
+getTime - shows current time and date
+calc - Enalbe calculator
+perFolder - shows personal folder
+loginInfo - shows whether user is logged in or not
+getAction - shows which application is runnig
+clear - Clear the screen
+logout - signing out
+getHelp - shows commands for help
+
+*do not delete or edit this txt file otherwise you will loose data

@@ -1,0 +1,20 @@
+akash4797
+rockon1997
+myInfo
+appInfo
+getTime
+calc
+perFolder
+loginInfo
+getAction
+clear
+logout
+getHelp
+rem
+showRem
+removeAllRem
+Name:Hossain Shariar Akash
+Phone:01533891348
+Email:akashrssky@gmail.com
+Nick Name: Akash
+train
